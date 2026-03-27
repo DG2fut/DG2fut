@@ -1,6 +1,6 @@
 # Hi there, I'm Sudarshan! 👋 
 
-I am an aspiring Computer Science student based in Chennai, Tamil Nadu, IndiaWith a strong aptitude for rapidly learning and applying new technologies, I enjoy tackling challenging concepts and contributing to meaningful work.
+I am an aspiring Computer Science student based in Chennai, Tamil Nadu, India. With a strong aptitude for rapidly learning and applying new technologies, I enjoy tackling challenging concepts and contributing to meaningful work.
 
 ### 🚀 About Me & My Interests
 * 🎓 Currently pursuing my Bachelor of Technology in Computer Science and Engineering at Vellore Institute Of Technology, Chennai.
